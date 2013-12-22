@@ -5,7 +5,13 @@
  * Time: 23:37
  * To change this template use File | Settings | File Templates.
  */
-public class NAN {
+
+class Na {
+
+
+}
+
+class Nano {
     public static void main(String[] args) {
         long timeout= System.currentTimeMillis();
         long timeNano = System.nanoTime();
